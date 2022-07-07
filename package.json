@@ -1,0 +1,26 @@
+{
+  "name": "useful-readme-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anisha-C/Useful-README-Creator.git"
+  },
+  "keywords": [
+    "README",
+    "Generator"
+  ],
+  "author": "Anisha Cartagena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anisha-C/Useful-README-Creator/issues"
+  },
+  "homepage": "https://github.com/Anisha-C/Useful-README-Creator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
