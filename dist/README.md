@@ -1,17 +1,17 @@
-# H
+# Weather Dashboard
   
 
   ## Description
 
-  * j
+  * This project allows the user to find the weather for what ever city they desire.
 
 
 
   ## Github application and page links
 
-  Github app:[undefined](https://github.com/Anisha-C/undefined)
+  Github app:[Whats-The-Weather-Like?](https://github.com/Anisha-C/Whats-The-Weather-Like?)
 
-  Github page:[undefined](https://Anisha-C.github.io/undefined/)
+  Github page:[Whats-The-Weather-Like?](https://Anisha-C.github.io/Whats-The-Weather-Like?/)
 
 
 
@@ -19,7 +19,6 @@
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Tests](#tests)
   * [Credits](#credits)
   * [License](#license)
   * [Contributing](#features)
@@ -28,33 +27,25 @@
 
 
   ## Installation
-  * JavaScript
+  * JavaScript,HTML,CSS,jQuery,Bootstrap
 
   ## Usage
-  * https://github.com/Anisha-C
-
-  ## Tests
-  * https://github.com/Anisha-C
-
-  ## Credits
-  * https://github.com/Anisha-C
+  * The purpose of this project is to find the weather 
 
   ## License
-  * https://github.com/Anisha-C
+  * None
 
   ## Badges
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/Anisha-C/undefined?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/Anisha-C/undefined?style=flat&logo=appveyor)
-
-  Badges by [shields.io](https://shields.io/).
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/Anisha-C/Whats-The-Weather-Like??style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/Anisha-C/undefined?style=flat&logo=appveyor)
 
   ## Features
-  https://github.com/Anisha-C
+  No other group members
 
   ## Questions
 
   Feel free to contact me using the infomation below, Thanks!:
 
+  * Email: [anishacartagena525@gmail.com](mailto:anishacartagena525@gmail.com)
   * GitHub: [Anisha-C](https://github.com/Anisha-C)
-  * Email: [https://github.com/Anisha-C](mailto:https://github.com/Anisha-C)
 
   [Top](#description)
